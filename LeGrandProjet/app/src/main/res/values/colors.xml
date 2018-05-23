@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3e1c00</color>
+    <color name="colorPrimaryDark">#311f1c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTitle">#D9C9BA</color>
+    <color name="color1GenButton">#00d7ff</color>
+    <color name="color2GenButton">#a40930</color>
+    <color name="color3GenButton">#e22525</color>
+    <color name="color4GenButton">#db00cc</color>
+
+</resources>

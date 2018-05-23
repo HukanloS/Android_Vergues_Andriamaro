@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Monster Hunter</string>
+    <string name="language_setting">Change Language</string>
+    <string name="Button2_Name">2nd Gen</string>
+    <string name="Button1_Name">1st Gen</string>
+    <string name="bestiaire_complet">Complete bestiary</string>
+    <string name="Button4_Name">4th Gen</string>
+    <string name="Button3_Name">3rd Gen</string>
+    <string name="name">Name :</string>
+    <string name="french_name">French name :</string>
+    <string name="japanese_name">Japanese name :</string>
+    <string name="english_name">English name : </string>
+    <string name="download_json">Download JSON</string>
+    <string name="quit">Quit</string>
+    <string name="more_details">More details</string>
+</resources>
